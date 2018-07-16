@@ -15,7 +15,7 @@
     grid-template-columns: repeat(6, 1fr)
 }
 
-.searchsection h2 {
+.searchsection h2.sectionheader {
     color: #fff;
     text-shadow: 1px 1px #000;
 }
@@ -237,21 +237,11 @@ a.selecty-selected > span {
 }
 
 .searchbox button.la-Search {
-    width:55px !important;
-    height:55px !important;
-    color: #fff;
-    box-shadow: none;
-    text-shadow: none;
+    width:42px !important;
+    height:42px !important;
     transition: all ease .4s;
 }
 
-.searchbox button.la-Search:hover {
-    box-shadow: none !important;
-}
-
-.searchbox button.la-Search::before {
-    color:#fff !important;
-}
 
 
 
