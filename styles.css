@@ -314,6 +314,14 @@ h2.sectionheader {
     font-weight: 400;
 }
 
+.exploresection > div {
+    max-width: 960px;
+    margin:0 auto;
+    display: grid;
+    column-gap: 30px;
+    row-gap: 1.5em;
+}
+    
 .exploresection h2.sectionheader {
     padding-bottom:30px;
 }
