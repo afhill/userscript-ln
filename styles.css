@@ -208,12 +208,12 @@ a.selecty-selected > span {
 }
 
 .landing.searchbox .input {
-    height:55px !important;
+    height:42px !important;
     border-right: 1px solid #D2D4D4;
 }
 
 .landing.searchbox .expandingTextarea {
-    min-height:55px;
+    min-height:42px;
 }
 
 .landing.searchbox .input pre, .landing.searchbox .input textarea {
