@@ -1,11 +1,10 @@
 
 
-.hit:before {
+.hit::before {
 
   background:url('https://raw.githubusercontent.com/afhill/userscript-ln/master/dot.png');
   width: 13px;
   height: 13px;
-  display: block;
 }
 
 .results-list article .casesum .hit, 
