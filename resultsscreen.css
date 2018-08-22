@@ -2,7 +2,7 @@
 
 .hit:before {
 
-  background:url('https://github.com/afhill/userscript-ln/blob/master/dot.png');
+  background:url('https://raw.githubusercontent.com/afhill/userscript-ln/master/dot.png');
   width: 13px;
   height: 13px;
   display: block;
