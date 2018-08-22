@@ -14,6 +14,6 @@
 .results-list article .onecase .hit, 
 .results-list article .vis .hit 
 {
-    background: green;
+    background: green !important;
 }
   
