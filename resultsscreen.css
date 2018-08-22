@@ -7,3 +7,13 @@
   height: 13px;
   display: block;
 }
+
+.results-list article .casesum .hit, 
+.results-list article .casesummary .hit, 
+.results-list article .min .hit, 
+.results-list article .onecase .hit, 
+.results-list article .vis .hit 
+{
+    background: green;
+}
+  
